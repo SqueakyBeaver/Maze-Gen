@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.svg": "xml",
+    "*.src": "ez80-asm",
+    "iostream": "cpp"
+  }
+}

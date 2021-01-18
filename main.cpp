@@ -2,5 +2,5 @@
 
 int main()
 {
-  std::cour << "Figure out sutff\n";
+  std::cout << "Figure out sutff\n";
 }
